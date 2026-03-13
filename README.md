@@ -6,8 +6,10 @@
 
 ## Projects
 - Student Marks Data Analysis
-- Sales Data Analysis (coming soon)
-- Netflix Data Analysis (coming soon)
+- Sales Data Analysis
+- Netflix Data Analysis
+- E-commerce Sales Data Analysis
+- COVID-19 Data Analysis
 
 ## Skills
 - Python
